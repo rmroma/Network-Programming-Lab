@@ -17,3 +17,6 @@ Hybrid P2P and clientserver messenger application that enable two clients to sen
   <dd>- Once a client enters a chat room it will receive all messages sent by all the other clients in the room.</dd>
   <dd>- In order not to overload the server, all client communication is P2P using UDP and does not pass through the server.</dd>
 </dl>
+
+video preview on youtube:  https://www.youtube.com/watch?v=bkCRAjCwcCo
+
