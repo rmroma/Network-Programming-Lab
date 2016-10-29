@@ -1,0 +1,37 @@
+body{
+background-color: lightgrey;
+}
+
+#headline1{
+color:blue;
+margin-left:400px;
+}
+
+#headline2{
+color:black;
+}
+#headline3{
+color:red;
+margin-left:400px;
+}
+
+#headline3{
+color:green;
+margin-left:400px;
+}
+
+
+h3 #green{
+color:green;
+
+}
+
+#green{
+color:green;
+}
+
+#red{
+color:red;
+}
+
+
