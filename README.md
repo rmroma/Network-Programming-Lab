@@ -1,4 +1,6 @@
-# C++ - Network Programming Lab - Messenger Project 
+# ![pageres](media/headline_.JPG)
+
+## Description
 
 Hybrid P2P and clientserver messenger application that enable two clients to send and receive messages between one and the other.<p>
 <b>The developed project will implement the following functionality:</b><p>
@@ -41,6 +43,8 @@ Hybrid P2P and clientserver messenger application that enable two clients to sen
   <dt>8. The user will be notified in each change in the client state with a proper message printed to the screen.</dt>
   <dt>9. Each incoming message will be printed in the format: >[Moshe] What's up?</dt>
 </dl>
+
+##Demo
 
 video preview on youtube:  https://www.youtube.com/watch?v=bkCRAjCwcCo
 
