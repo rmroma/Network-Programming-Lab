@@ -44,7 +44,7 @@ Hybrid P2P and clientserver messenger application that enable two clients to sen
   <dt>9. Each incoming message will be printed in the format: >[Moshe] What's up?</dt>
 </dl>
 
-##Demo
+## Demo
 
 video preview on youtube:  https://www.youtube.com/watch?v=bkCRAjCwcCo
 
